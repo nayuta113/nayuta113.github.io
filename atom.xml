@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nayuta113.github.io</id>
+    <title>草莓可以吃几颗</title>
+    <updated>2023-10-31T02:39:04.163Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nayuta113.github.io"/>
+    <link rel="self" href="https://nayuta113.github.io/atom.xml"/>
+    <subtitle>草莓的资源站</subtitle>
+    <logo>https://nayuta113.github.io/images/avatar.png</logo>
+    <icon>https://nayuta113.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 草莓可以吃几颗</rights>
+    <entry>
+        <title type="html"><![CDATA[『伴奏一键获取』n-buna篇]]></title>
+        <id>https://nayuta113.github.io/post/ban-zou-yi-jian-huo-qu-n-buna-pian/</id>
+        <link href="https://nayuta113.github.io/post/ban-zou-yi-jian-huo-qu-n-buna-pian/">
+        </link>
+        <updated>2023-09-22T06:53:34.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
+<h2 id="用前须知">用前须知😫</h2>
+<p>1.如何使用下面的口令？<br>
+答：<a href="https://cowtransfer.com/">领取资源</a> ，打开后输入口令即可。（点击超链接也可直接下载）<br>
+2.口令取件打开的文件太大，我只想下载一首歌怎么办？<br>
+答：点击文件进入，选择你想下载的<strong>音频</strong>文件（文件夹不可下载），右键下载即可。<br>
+3.为什么要使用本下载网站不用百度网盘？<br>
+答：百度网盘小水管，该网站下载满速且不用会员。<br>
+4.您觉得哪首歌特别好听，想让我做伴奏，如何发送资源给我？<br>
+答：<a href="https://strawberry.cowtransfer.com/">发送资源</a> ，<strong>注册账号</strong>后即可给我发送，并且你可以在发送资源时留言。</p>
+<h2 id="夜鹿伴奏音频获取">夜鹿伴奏音频获取👇</h2>
+<p>01 - <a href="https://strawberry.cowtransfer.com/s/eb510af915fd43">月を歩いている</a>  口令：b1kwk9<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/c2a0f41d14724d">泣いた振りをした</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/e384a1a78a184d">セロ弾き群青</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/764e6a5e236c4f">かぐや</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/3d01f4da8d1f46">ラプンツェル</a></p>
+<p>02 - <a href="https://strawberry.cowtransfer.com/s/e059e44c3d4d49">花と水飴，最終電車</a>口令：4s86q1<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/93c7d9cbb81b45">夜明けと蛍_百万播放版</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/03aba7f5e66645">始発とカフカ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/1067e33c370d48">もうじき夏が終わるから</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヨルシカ多久没有发新歌了！！！]]></title>
+        <id>https://nayuta113.github.io/post/11/</id>
+        <link href="https://nayuta113.github.io/post/11/">
+        </link>
+        <updated>2023-08-11T01:39:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="太长不看版">👀 太长不看版 👀</h1>
+<p>ヨルシカ已经 <code> 19天</code> 没有发布新歌了， n-buna起来干活！</p>
+<pre><code>归类总结
+---专辑+歌曲发布间隔---
+蓝色：10 个
+绿色：3 个
+紫色：7 个
+橙色：3 个
+红色：2 个
+----------------------
+---专辑发布间隔---
+紫色：3 个
+红色：3 个
+----------------------
+</code></pre>
+<p>本页面属于上班摸鱼产品，统计了 犹如是卡 每次发布新作品间隔（摸了 = ✋了）到底有多长时间。<br>
+目前以网易云ヨルシカ发布的时间信息为准，后续会精准校对。</p>
+<pre><code>👻说人话解释一下颜色区别👻
+蓝色：30天内又发歌了，很勤奋。
+绿色：1-2个月一首也还行吧？
+紫色：2-5个月不更新，小摸！
+橙色：5-8个月不更新，感觉可以继续✋🐟。
+红色：8个月不更了，干脆解散吧（x）。
+</code></pre>
+<p>👣👇🤖😼🕶下面是网页内嵌代码块说明：</p>
+<pre><code>🚀进度条颜色区分说明🚀
+def refined_determine_color(days):
+    if days &lt;= 30:
+        return &quot;\033[94m&quot;  # 蓝色
+    elif days &lt;= 70:
+        return &quot;\033[92m&quot;  # 绿色
+    elif days &lt;= 150:
+        return &quot;\033[95m&quot;  # 紫色
+    elif days &lt;= 250:
+        return &quot;\033[33m&quot;  # 橙色
+    else:
+        return &quot;\033[91m&quot;  # 红色
+
+&lt;style&gt;
+    .blue { color: blue; }
+    .green { color: green; }
+    .purple { color: purple; }
+    .orange { color: orange; }
+    .red { color: red; }
+&lt;/style&gt;
+</code></pre>
+<style>
+    .blue { color: blue; }
+    .green { color: green; }
+    .purple { color: purple; }
+    .orange { color: orange; }
+    .red { color: red; }
+</style>
+<h2 id="ヨルシカ所有歌曲间隔时间"><strong>⌈ ヨルシカ所有歌曲间隔时间 ⌋</strong></h2>
+<p><strong>月光浴 to 斜陽:</strong><br>
+<span class="orange">|#########################-------------------------|</span><br>
+间隔天数: 158 (2023.10.13 - 2023.5.08 )</p>
+<p><strong>斜陽 to （专辑）幻燈:</strong><br>
+<span class="blue">|#####---------------------------------------------|</span><br>
+间隔天数: 33 (2023.5.08 - 2023.4.05)</p>
+<p><strong>（专辑）幻燈 to 451:</strong><br>
+<span class="blue">|####----------------------------------------------|</span><br>
+间隔天数: 28 (2023.4.05 - 2023.3.08)</p>
+<p><strong>451 to アルジャーノン :</strong><br>
+<span class="blue">|####----------------------------------------------|</span><br>
+间隔天数: 30 (2023.3.08 - 2023.2.06)</p>
+<p><strong>アルジャーノン  to テレパス:</strong><br>
+<span class="blue">|###-----------------------------------------------|</span><br>
+间隔天数: 25 (2023.2.06 - 2023.1.12)</p>
+<p><strong>テレパス to チノカテ:</strong><br>
+<span class="purple">|#####################-----------------------------|</span><br>
+间隔天数: 136 (2023.1.12 - 2022.8.29)</p>
+<p><strong>チノカテ to 左右盲:</strong><br>
+<span class="blue">|#####---------------------------------------------|</span><br>
+间隔天数: 35 (2022.8.29 - 2022.7.25)</p>
+<p><strong>左右盲 to ブレーメン:</strong><br>
+<span class="blue">|###-----------------------------------------------|</span><br>
+间隔天数: 21 (2022.7.25 - 2022.7.04)</p>
+<p><strong>ブレーメン to 月に吠える :</strong><br>
+<span class="orange">|###########################################-------|</span><br>
+间隔天数: 271 (2022.7.04 - 2021.10.06)</p>
+<p><strong>月に吠える  to 老人と海:</strong><br>
+<span class="green">|#######-------------------------------------------|</span><br>
+间隔天数: 49 (2021.10.06 - 2021.8.18)</p>
+<p><strong>老人と海 to 又三郎:</strong><br>
+<span class="purple">|###########---------------------------------------|</span><br>
+间隔天数: 72 (2021.8.18 - 2021.6.07)</p>
+<p><strong>又三郎 to （专辑）創作:</strong><br>
+<span class="purple">|####################------------------------------|</span><br>
+间隔天数: 132 (2021.6.07 - 2021.1.26)</p>
+<p><strong>（专辑）創作 to 春泥棒:</strong><br>
+<span class="blue">|##------------------------------------------------|</span><br>
+间隔天数: 17 (2021.1.26 - 2021.1.09)</p>
+<p><strong>春泥棒 to 風を食む :</strong><br>
+<span class="purple">|##############------------------------------------|</span><br>
+间隔天数: 94 (2021.1.09 - 2020.10.07)</p>
+<p><strong>風を食む  to （专辑）盗作:</strong><br>
+<span class="green">|###########---------------------------------------|</span><br>
+间隔天数: 70 (2020.10.07 - 2020.7.29)</p>
+<p><strong>（专辑）盗作 to 思想犯:</strong><br>
+<span class="blue">|#####---------------------------------------------|</span><br>
+间隔天数: 35 (2020.7.29 - 2020.6.24)</p>
+<p><strong>思想犯 to 春ひさぎ:</strong><br>
+<span class="blue">|###-----------------------------------------------|</span><br>
+间隔天数: 21 (2020.6.24 - 2020.6.03)</p>
+<p><strong>春ひさぎ to 花に亡霊:</strong><br>
+<span class="green">|######--------------------------------------------|</span><br>
+间隔天数: 42 (2020.6.03 - 2020.4.22)</p>
+<p><strong>花に亡霊 to 夜行 :</strong><br>
+<span class="green">|#######-------------------------------------------|</span><br>
+间隔天数: 49 (2020.4.22 - 2020.3.04)</p>
+<p><strong>夜行  to （专辑）エルマ:</strong><br>
+<span class="orange">|##############################--------------------|</span><br>
+间隔天数: 189 (2020.3.04 - 2019.8.28)</p>
+<p><strong>（专辑）エルマ to 心に穴が空いた:</strong><br>
+<span class="purple">|##########----------------------------------------|</span><br>
+间隔天数: 65 (2019.8.28 - 2019.6.24)</p>
+<p><strong>心に穴が空いた to （专辑）だから僕は音楽を辞めた:</strong><br>
+<span class="purple">|###########---------------------------------------|</span><br>
+间隔天数: 75 (2019.6.24 - 2019.4.10)</p>
+<p><strong>（专辑）だから僕は音楽を辞めた to 藍二乗:</strong><br>
+<span class="purple">|################----------------------------------|</span><br>
+间隔天数: 104 (2019.4.10 - 2018.12.27)</p>
+<p><strong>藍二乗 to （专辑）負け犬にアンコールはいらない:</strong><br>
+<span class="orange">|####################################--------------|</span><br>
+间隔天数: 232 (2018.12.27 - 2018.5.09)</p>
+<p><strong>（专辑）負け犬にアンコールはいらない to （专辑）夏草が邪魔をする:</strong><br>
+<span class="red">|##################################################|</span><br>
+间隔天数: 315 (2018.5.09 - 2017.6.28)</p>
+<h1 id="ヨルシカ专辑间隔时间"><strong>⌈ ヨルシカ专辑间隔时间 ⌋</strong></h1>
+<p><strong>（专辑）幻燈 to （专辑）創作:</strong><br>
+<span class="red">|##################################################|</span><br>
+间隔天数: 799 (2023.4.05 - 2021.1.26)</p>
+<p><strong>（专辑）創作 to （专辑）盗作:</strong><br>
+<span class="purple">|###########---------------------------------------|</span><br>
+间隔天数: 181 (2021.1.26 - 2020.7.29)</p>
+<p><strong>（专辑）盗作 to （专辑）エルマ:</strong><br>
+<span class="red">|#####################-----------------------------|</span><br>
+间隔天数: 336 (2020.7.29 - 2019.8.28)</p>
+<p><strong>（专辑）エルマ to （专辑）だから僕は音楽を辞めた:</strong><br>
+<span class="purple">|########------------------------------------------|</span><br>
+间隔天数: 140 (2019.8.28 - 2019.4.10)</p>
+<p><strong>（专辑）だから僕は音楽を辞めた to （专辑）負け犬にアンコールはいらない:</strong><br>
+<span class="red">|#####################-----------------------------|</span><br>
+间隔天数: 336 (2019.4.10 - 2018.5.09)</p>
+<p><strong>（专辑）負け犬にアンコールはいらない to （专辑）夏草が邪魔をする:</strong><br>
+<span class="purple">|###################-------------------------------|</span><br>
+间隔天数: 315 (2018.5.09 - 2017.6.28)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヨルシカ伴奏更新检索]]></title>
+        <id>https://nayuta113.github.io/post/ce-shi-1/</id>
+        <link href="https://nayuta113.github.io/post/ce-shi-1/">
+        </link>
+        <updated>2023-07-31T06:17:36.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
+<p>🔅<strong>下列资源为您能从本站找到的所有ヨルシカ资源</strong><br>
+✔️：资源已更新<br>
+✖️：资源未更新</p>
+<p>注：本页面仅展示检索功能，下载资源请<a href="/post/yrskmusic/">点击此处</a>。</p>
+<h2 id="ヨルシカ-专辑"><strong>ヨルシカ 专辑</strong></h2>
+<p>🎶 <strong>夏草が邪魔をする</strong><br>
+1️⃣カトレア✔️<br>
+2️⃣言って。✔️<br>
+3️⃣あの夏に咲け✔️<br>
+4️⃣靴の花火✔️<br>
+5️⃣雲と幽霊✔️</p>
+<p>🎶 <strong>負け犬にアンコールはいらない</strong><br>
+1️⃣負け犬にアンコールはいらない✔️<br>
+2️⃣爆弾魔✔️<br>
+3️⃣ヒッチコック✔️<br>
+4️⃣準透明少年✔️<br>
+5️⃣ただ君に晴れ✔️<br>
+6️⃣冬眠✔️</p>
+<p>🎶 <strong>だから僕は音楽を辞めた</strong><br>
+1️⃣藍二乗✔️<br>
+2️⃣八月、某、月明かり✔️<br>
+3️⃣詩書きとコーヒー✔️<br>
+4️⃣踊ろうぜ✔️<br>
+5️⃣六月は雨上がりの街を書く✔️<br>
+6️⃣五月は花緑青の窓辺から✔️<br>
+7️⃣夜紛い✔️<br>
+8️⃣パレード✔️<br>
+9️⃣エルマ✔️<br>
+🔟だから僕は音楽を辞めた✔️</p>
+<p>🎶 <strong>エルマ</strong><br>
+1️⃣憂一乗✖️<br>
+2️⃣夕凪、某、花惑い✖️<br>
+3️⃣雨とカプチーノ✔️<br>
+4️⃣神様のダンス✖️<br>
+5️⃣雨晴るる✔️<br>
+6️⃣歩く✔️<br>
+7️⃣心に穴が空いた✔️<br>
+8️⃣声✔️<br>
+9️⃣エイミー✖️<br>
+🔟ノーチラス✔️</p>
+<p>🎶 <strong>盗作</strong><br>
+1️⃣昼鳶✔️<br>
+2️⃣春ひさぎ✔️<br>
+3️⃣爆弾魔 (Re-Recording)✔️<br>
+4️⃣レプリカント✖️<br>
+5️⃣花人局✔️<br>
+6️⃣盗作✔️<br>
+7️⃣思想犯✔️<br>
+8️⃣逃亡✖️<br>
+9️⃣夜行✔️<br>
+🔟花に亡霊✔️</p>
+<p>🎶 <strong>創作</strong><br>
+1️⃣強盗と花束✔️<br>
+2️⃣春泥棒✔️<br>
+3️⃣風を食む✔️<br>
+4️⃣嘘月✔️</p>
+<p>🎶 <strong>幻燈</strong><br>
+1️⃣夏の肖像✖️<br>
+2️⃣都落ち✖️<br>
+3️⃣ブレーメン✔️<br>
+4️⃣チノカテ✖️<br>
+5️⃣雪国✖️<br>
+6️⃣月に吠える✔️<br>
+7️⃣451✖️<br>
+8️⃣パドドゥ✖️<br>
+9️⃣又三郎✔️<br>
+🔟靴の花火<br>
+1️⃣1️⃣老人と海✔️<br>
+1️⃣2️⃣さよならモルテン✖️<br>
+1️⃣3️⃣いさな✖️<br>
+1️⃣4️⃣左右盲✖️<br>
+1️⃣5️⃣アルジャーノン✔️<br>
+1️⃣6️⃣第一夜✖️</p>
+<p>🎶 <strong>未收专单曲</strong><br>
+1️⃣斜陽✖️</p>
+<h2 id="ヨルシカ-live"><strong>ヨルシカ Live</strong></h2>
+<p>🎶 <strong>前世</strong><br>
+1️⃣藍二乗✔️<br>
+2️⃣だから僕は音楽を辞めた✔️<br>
+3️⃣雨とカプチーノ✔️<br>
+4️⃣パレード✔️<br>
+5️⃣言って。✔️<br>
+6️⃣ただ君に晴れ✔️<br>
+7️⃣ヒッチコック✔️<br>
+8️⃣春ひさぎ✔️<br>
+9️⃣思想犯✔️<br>
+🔟花人局✔️<br>
+1️⃣1️⃣春泥棒✔️<br>
+1️⃣2️⃣ノーチラス✔️<br>
+1️⃣3️⃣エルマ✔️<br>
+1️⃣4️⃣冬眠✔️</p>
+<p>🎶 <strong>月光再演</strong><br>
+1️⃣夕凪、某、花惑い✖️<br>
+2️⃣八月、某、月明かり✖️<br>
+3️⃣藍二乗✖️<br>
+4️⃣神様のダンス✔️<br>
+5️⃣夜紛い✖️<br>
+6️⃣雨とカプチーノ✖️<br>
+7️⃣六月は雨上がりの街を書く✔️<br>
+8️⃣雨晴るる✖️<br>
+9️⃣踊ろうぜ✖️<br>
+🔟歩く✔️<br>
+1️⃣1️⃣心に穴が空いた✖️<br>
+1️⃣2️⃣パレード✔️<br>
+1️⃣3️⃣憂一乗✔️<br>
+1️⃣4️⃣ノーチラス✖️<br>
+1️⃣5️⃣だから僕は音楽を辞めた✖️</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站更新记录]]></title>
+        <id>https://nayuta113.github.io/post/wang-zhan-geng-xin-ji-lu/</id>
+        <link href="https://nayuta113.github.io/post/wang-zhan-geng-xin-ji-lu/">
+        </link>
+        <updated>2023-07-26T08:32:45.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
+<h2 id="最新更新">最新更新👏</h2>
+<p>🚀版本<strong>V1.8</strong> | <strong>更新n-buna术曲伴奏</strong> | 更新时间<strong>2023.09.22</strong>。</p>
+<h2 id="历史记录">历史记录</h2>
+<p>🚀版本<strong>V1.7</strong> | <strong>Yorushika前世Live全部伴奏均上传</strong> | 更新时间<strong>2023.09.08</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.6</strong> | <strong>细化资源分类，主页更新</strong> | 更新时间<strong>2023.08.31</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.5</strong> | <strong>细化资源分类，主页更新</strong> | 更新时间<strong>2023.08.10</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.4</strong> | <strong>细化资源分类，主页更新</strong> | 更新时间<strong>2023.07.31</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.3</strong> | <strong>更新无损资源</strong> | 更新时间<strong>2023.07.27</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.2</strong> | <strong>更新页面分类，补充无损资源</strong> | 更新时间<strong>2023.07.26</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.1</strong> | <strong>实现评论功能，优化网站页面</strong> | 更新时间<strong>2023.07.25</strong>。<br>
+——|👇<br>
+——|👇<br>
+🚀版本<strong>V1.0</strong> | <strong>网站初版上线</strong> | 更新时间<strong>2023.07.24</strong>。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无损资源一键获取]]></title>
+        <id>https://nayuta113.github.io/post/ce-shi/</id>
+        <link href="https://nayuta113.github.io/post/ce-shi/">
+        </link>
+        <updated>2023-07-26T01:10:42.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
+<h2 id="用前须知">用前须知😫</h2>
+<p>1.如何使用下面的口令？<br>
+答：<a href="https://cowtransfer.com/">领取资源</a> ，打开后输入口令即可。<br>
+2.口令取件打开的文件太大，我只想下载一首歌怎么办？<br>
+答：点击文件进入，选择你想下载的<strong>音频</strong>文件（文件夹不可下载），右键下载即可。<br>
+3.为什么要使用本下载网站不用百度网盘？<br>
+答：百度网盘小水管，该网站下载满速且不用会员。<br>
+4.您觉得哪首歌特别好听，想让我做伴奏，如何发送资源给我？<br>
+答：<a href="https://strawberry.cowtransfer.com/">发送资源</a> ，<strong>注册账号</strong>后即可给我发送，并且你可以在发送资源时留言。</p>
+<h2 id="夜鹿无损音视频">夜鹿无损音视频👇</h2>
+<p><a href="https://strawberry.cowtransfer.com/s/80c48ab8065342">Yorushika</a>  口令：kjwt9x<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/810837190e6b47">夏草</a>  口令：8ju06b<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/35ecabb3724342">败犬</a>  口令：9ea2dn<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/c1e7215a539846">音辞</a>  口令：qdojra<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/b6dc03cac2b34c">エルマ</a>  口令：6xozjk<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/935bcb6739604b">盗作</a>  口令：ngwyk8<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/784fb89e80f54f">创作</a>  口令：w69h1e<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/6fdc8dbef38a41">幻灯</a>  口令：y2n0t2<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/d637ef025e904f">个人联动向</a>  口令：h6tf4z<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/2263b19470b84a">2021前世Live</a>  口令：ae66rc<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/0f4d321745ed42">2022月光再演Live</a>  口令：dsarh4<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/506f21a0d66340">Make-up Shadow</a>  口令：lhzcs9</p>
+<p><a href="https://strawberry.cowtransfer.com/s/114ce79f032742">真夜中（毫无整理一团乱）</a>  口令：8z1gjb</p>
+<p><a href="https://strawberry.cowtransfer.com/s/ea2b7745db5441">Lanndo</a>  口令：m4wr3s<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/0b5c10cb464849">ULTRAPANIC</a>  口令：6y3mcb</p>
+<p><a href="https://strawberry.cowtransfer.com/s/c6bd5bdbdf4841">N-buna</a>  口令：0a50eo<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/aa654fb6957b4a">月を歩いている （初回盤）</a>  口令：86vh0t<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/043b33a0a88543">花と水飴，最終電車</a>  口令：bgwc1o</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『伴奏一键获取』ヨルシカ]]></title>
+        <id>https://nayuta113.github.io/post/yrskmusic/</id>
+        <link href="https://nayuta113.github.io/post/yrskmusic/">
+        </link>
+        <updated>2023-07-24T07:40:38.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="最下方可留言噢~"><strong>最下方可留言噢~</strong></h2>
+<h2 id="用前须知">用前须知😫</h2>
+<p>1.如何使用下面的口令？<br>
+答：<a href="https://cowtransfer.com/">领取资源</a> ，打开后输入口令即可。（点击超链接也可直接下载）<br>
+2.口令取件打开的文件太大，我只想下载一首歌怎么办？<br>
+答：点击文件进入，选择你想下载的<strong>音频</strong>文件（文件夹不可下载），右键下载即可。<br>
+3.为什么要使用本下载网站不用百度网盘？<br>
+答：百度网盘小水管，该网站下载满速且不用会员。<br>
+4.您觉得哪首歌特别好听，想让我做伴奏，如何发送资源给我？<br>
+答：<a href="https://strawberry.cowtransfer.com/">发送资源</a> ，<strong>注册账号</strong>后即可给我发送，并且你可以在发送资源时留言。</p>
+<h2 id="夜鹿伴奏音频获取">夜鹿伴奏音频获取👇</h2>
+<p>01 - <a href="https://strawberry.cowtransfer.com/s/8f6efe6cb4844c">夏草が邪魔をする</a>  口令：03dpdf<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/9fb00b2c0e3e4d">カトレア</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/f7664840422f41">言って。</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/268decf282024b">あの夏に咲け</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/f2920ec1e47e4d">靴の花火</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/130b754514a145">雲と幽霊 </a></p>
+<p>02 - <a href="https://strawberry.cowtransfer.com/s/06c74c0752eb49">負け犬にアンコールはいらない</a>口令：p9rjb1<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/40672a2246494a">負け犬にアンコールはいらない</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/526d972fdce042">爆弾魔</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/08d7764721fd46">ヒッチコック</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/2f8dd4ad602543">準透明少年</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/1c9df3b3efb243">ただ君に晴れ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/d31cd5097e634b">冬眠</a></p>
+<p>03 - <a href="https://strawberry.cowtransfer.com/s/18ad0752025441">だから僕は音楽を辞めた</a>  口令：cnfctu<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/2cff041aefdc40">藍二乗</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/0dc5b6f2bf354a">八月、某、月明かり</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/75353810606547">詩書きとコーヒー</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/2713c14393944b">踊ろうぜ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/da6c6a675ce447">六月は雨上がりの街を書く</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/6fc42e7fb76147">五月は花緑青の窓辺から</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/94ac0c1cc55e4a">夜紛い</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/64e1340cd9f847">パレード</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/b642595329b444">エルマ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/d7f26096834c4e">だから僕は音楽を辞めた</a></p>
+<p>04 - <a href="https://strawberry.cowtransfer.com/s/b399398ca80143">エルマ</a>  口令：91xriq<br>
+|<br>
+|———<a href="">憂一乗（未制作）</a><br>
+|<br>
+|———<a href="">夕凪、某、花惑い（未制作）</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/aca1a6e19b4848">雨とカプチーノ</a><br>
+|<br>
+|———<a href="">神様のダンス（未制作）</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/e0d1c4c4a2e041">雨晴るる</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/780bb3d4b8ed4c">歩く</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/d3ffa0f1bb3e4b">心に穴が空いた</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/419cefab828c4c">声</a><br>
+|<br>
+|———<a href="">エイミー（未制作）</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/febc6ef7c85243">ノーチラス</a></p>
+<p>05 - <a href="https://strawberry.cowtransfer.com/s/503d77ce5e1644">盗作</a>  口令：yu8mj6<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/eb41a496125841">昼鳶</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/f3ccdb22fa2c4a">春ひさぎ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/58d4b263aa8f40">爆弾魔 (Re-Recording)</a><br>
+|<br>
+|———<a href="">レプリカント（未制作）</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/f841ae72761445">花人局</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/4f87a0eaeff948">盗作</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/b6a2e151dd784d">思想犯</a><br>
+|<br>
+|———<a href="">逃亡（未制作）</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/0258259819ac40">夜行</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/8ddcc32dedcd46">花に亡霊</a></p>
+<p>06 - <a href="https://strawberry.cowtransfer.com/s/6723078a03424a">創作</a>  口令：m0zxyk<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/a3beb501150a40">強盗と花束</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/705c104b2ee04a">春泥棒</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/eee84237211746">風を食む</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/e7513a8951004e">嘘月</a></p>
+<p>07 - <a href="https://strawberry.cowtransfer.com/s/bfabb3008ab443">幻燈</a>  口令：rxv4d5<br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/934394a6d3d74a">又三郎</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/3172573638b94b">老人与海</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/ace3801bdffa42">ブレーメン</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/8ae38eef10bc46">月に吠える</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/6e65438e744242">チノカテ</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/8ae38eef10bc46">月に吠える</a><br>
+|<br>
+|———<a href="https://strawberry.cowtransfer.com/s/ba798a02fc2140">アルジャーノン</a></p>
+<h1 id="08-重置伴奏-口令cjktvn"><strong>08 -  <a href="https://strawberry.cowtransfer.com/s/e34f0ad86c8649">重置伴奏</a>  口令：cjktvn</strong></h1>
+<p><strong>👇👇👇✍️除前世和月光再演外，重置伴奏内还有其他资源（如图片），自取…👻</strong></p>
+<h1 id="ヨルシカ-前世"><em><strong>ヨルシカ 前世</strong></em></h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/7bf47ac87e8047">前世</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/5f0cda2780fb41">ただ君に晴れ</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/07c64edeef7a43">パレード</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/b04c75bed2a04c">冬眠</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/c12300ee16524d">思想犯</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/fb573f4dde0c4c">春泥棒</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/a7c4c2590f8148">花人局</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/a953085b04a146">言って。</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/b89f9898fb814e">エルマ</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/15151d219b5649">ノーチラス</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/9309808830cb4f">藍二乗</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/a118e5856d3749">ヒッチコック</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/9ad8da369d1c47">だから僕は音楽を辞めた</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/c7f240adab8946">春ひさぎ</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/7952eeb1fcf24e">雨とカプチーノ</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="ヨルシカ-月光再演"><em><strong>ヨルシカ 月光再演</strong></em></h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/a82eabe333164f">月光再演</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/dcc6938a10aa45">憂一乗</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/908015e5a66f4f">パレード</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://strawberry.cowtransfer.com/s/145a74be899345">六月は雨上がりの街を書く</a></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://nayuta113.github.io/post/hello/</id>
+        <link href="https://nayuta113.github.io/post/hello/">
+        </link>
+        <updated>2023-07-24T07:29:43.000Z</updated>
+        <content type="html"><![CDATA[<p>🔅<strong>最下方可留言噢~</strong></p>
+<p>👏  欢迎使用 <strong>草莓的个人资源站</strong>  😋！</p>
+<h2 id="关于up的一些链接">关于UP的一些链接👇</h2>
+<p><a href="https://space.bilibili.com/12332098">Bilibili主页</a><br>
+<a href="https://strawberry.cowtransfer.com">给UP发送资源</a></p>
+<h2 id="网易云播客">网易云播客👇</h2>
+<p><a href="https://music.163.com/#/djradio?id=981218241">夜鹿的伴奏小世界</a><br>
+<a href="https://music.163.com/#/djradio?id=987287025">幻灯</a><br>
+<a href="https://music.163.com/#/djradio?id=987447313">前世</a><br>
+<a href="https://music.163.com/#/djradio?id=987507307">月光再演</a></p>
+<h2 id="关于本站一般是下班前1h摸鱼更新我爱摸鱼">🏠 关于本站：一般是下班前1h摸鱼更新，我爱摸鱼</h2>
+<h2 id="b站id草莓可以吃几颗-网易云星间夜游">👨‍💻 B站ID：草莓可以吃几颗  ； 网易云：星间夜游</h2>
+<h2 id="fender-jv-modified-50s-telecaster-yamaha-thr30ii-wl">🎵 Fender JV Modified 50s Telecaster  |  YAMAHA THR30II WL</h2>
+<h2 id="暂时没有粉丝群请b站私信或本站评论">📬 暂时没有粉丝群，请B站私信或本站评论</h2>
+<p>💬  已接入 评论系统  ！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
